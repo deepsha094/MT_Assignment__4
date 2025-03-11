@@ -1,1 +1,1 @@
-# MT_Assignment__4
+This module contains information on RDBMS and all the related SQL commands. There is also contents on join statement, types of join, constraints, type of constraints, difference between DBMS and RDBMS, api Testing, types of api testing, responsive testing, tools used for responsive testing and steps to follow to make developer mode ON.
